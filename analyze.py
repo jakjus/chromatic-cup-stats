@@ -11,7 +11,7 @@ NAME_MERGES = {
     "zaow": "Zaow", "catpaw": "Catpaw",
     "szenszej": "szenszej", "szenszej_": "szenszej",
     "bagofshittyoranges": "BagofShittyOranges",
-    "huevosexplosivo(catpaw)": "HuevosExplosivo",
+    "huevosexplosivo": "Catpaw", "huevosexplosivos": "Catpaw", "huevosexplosivo(catpaw)": "Catpaw",
     "renedave (100line)": "renedave", "renedave(100line)": "renedave",
     "oats": "buyingcoats", "buyingcoats": "buyingcoats", "atrum": "atrum",
     "shatteredglass": "ShatteredGlass",
